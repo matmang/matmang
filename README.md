@@ -96,8 +96,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matmang&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=matmang&theme=radical&hide_border=true)
-
 </div>
 
 ---
@@ -131,10 +129,3 @@
 - 💼 **LinkedIn**: [linkedin.com/in/matmang](https://www.linkedin.com/in/matmang)
 - 🐦 **Research Interests**: LLM Optimization, RAG Systems, Agent Development
 
----
-
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/matmang/count.svg)
-
-</div>
