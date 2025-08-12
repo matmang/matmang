@@ -1,6 +1,4 @@
-# Hi there, I'm 김지우 👋
-
-## AI Researcher & Engineer
+# 김지우 | AI Researcher & Engineer
 
 > *"연구와 제품 개발의 경계가 허물어지는 순간에 가장 큰 보람을 느낍니다"*
 
@@ -27,18 +25,18 @@
 
 ---
 
-## 🔬 Current Research
+## 🏆 Key Achievements
 
-### 🚀 Test(Inference)-Time Scaling 효율성 연구
-**제한된 연산 환경에서의 자원 분배 전략 최적화**
-- 국제 유명 학회 submission (under review)
-- 대규모·소형 모델 조합을 통한 **추론 성능 극대화** 전략 연구
-- 실서비스 적용을 위한 **연산 효율성 가이드라인** 제시
+### 📚 Publications & Submissions
+- 🔬 **국제 유명 학회 (1저자)** - Test-Time Scaling 효율성 연구 (under review)
+- 📄 **Future Internet (공동 1저자)** - [LLM을 활용한 설문조사 데이터 결측치 예측](https://www.mdpi.com/1999-5903/16/10/351)
+- 📊 **KSC 2024 (1저자)** - RAG 성능 향상을 위한 재정렬 방법 비교 연구
 
-### 🔍 RAG 성능 향상 연구
-**검색 품질 개선을 위한 Reranking 방법론 비교**
-- Cross-Encoder vs. LLM preference 기반 재정렬 전략 분석
-- 오픈 도메인 QA 환경에서의 **문서 관련성 평가** 최적화
+### 🚀 Entrepreneurship
+- 🥇 **제7회 창업아이디어톤 대상** (2021)
+- 📱 **Care Giver 앱 출시** - Google Play Store & App Store (2024)
+- 🎯 **SW융합연구과제 선정** (2022)
+- ⭐ **교내 창업 우수사례 선정** (2023)
 
 ---
 
@@ -67,21 +65,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
----
-
-## 🏆 Key Achievements
-
-### 📚 Publications & Submissions
-- 🔬 **국제 유명 학회** - Test-Time Scaling 효율성 연구 (under review)
-- 📄 **Future Internet (2024)** - [LLM을 활용한 설문조사 데이터 결측치 예측](https://www.mdpi.com/1999-5903/16/10/351)
-- 📊 **KSC 2024** - RAG 성능 향상을 위한 재정렬 방법 비교 연구
-
-### 🚀 Entrepreneurship
-- 🥇 **제7회 창업아이디어톤 대상** (2021)
-- 📱 **Care Giver 앱 출시** - Google Play Store & App Store (2024)
-- 🎯 **SW융합연구과제 선정** (2022)
-- ⭐ **교내 창업 우수사례 선정** (2023)
 
 ---
 
