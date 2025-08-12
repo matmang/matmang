@@ -122,7 +122,7 @@
 
 ## 📫 Let's Connect!
 
-- 📑 **Resume**: [Notion Link](https://www.notion.so/KIM-JIWOO-24c856d1375880348131fd60f4399637#24c856d1375880d8aeb7cc5a16b4e485)
+- 📑 **Resume**: [Kim Jiwoo](https://www.notion.so/KIM-JIWOO-24c856d1375880348131fd60f4399637#24c856d1375880d8aeb7cc5a16b4e485)
 - 📧 **Email**: [jyskokomo@gmail.com](mailto:jyskokomo@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/matmang](https://www.linkedin.com/in/matmang)
 - 🐦 **Research Interests**: LLM Optimization, RAG Systems, Agent Development
